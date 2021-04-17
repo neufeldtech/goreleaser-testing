@@ -23,6 +23,7 @@ Example Format Below:
 -->
 ## [Unreleased]
 
+## [0.0.2] - 2021-04-17
 ### Changed
 - LICENSE: changed license:wq
 
