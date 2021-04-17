@@ -25,7 +25,7 @@ Example Format Below:
 
 ## [0.0.2] - 2021-04-17
 ### Changed
-- LICENSE: changed license:wq
+- LICENSE: changed license
 
 ## [0.0.1] - 2021-04-17
 
